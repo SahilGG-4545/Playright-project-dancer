@@ -4,7 +4,7 @@ Example repository for web scraping a single page application with Playwright.
 
 ## Setup
 
-I wrote this example application for Python 3.10, although it should work in python versions 3.9+. It should also work in lower versions of python 3 if the type hints are removed. To get started, you can `pip install` the necessary third-party requirements `flask` and `playwright` in a virtual environment and install Playwright's browser support.
+To get started, you can `pip install` the necessary third-party requirements `flask` and `playwright` in a virtual environment and install Playwright's browser support.
 
 ```bash
 pip install --upgrade pip
